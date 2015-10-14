@@ -1,0 +1,9 @@
+ru\kpfu\repositories\UserRepositories2.class
+ru\kpfu\exceptions\EmailValidException.class
+ru\kpfu\exceptions\DBException.class
+ru\kpfu\entities\User.class
+ru\kpfu\exceptions\UserExistException.class
+ru\kpfu\servlets\Logout.class
+ru\kpfu\servlets\RegistrationServlet.class
+ru\kpfu\servlets\Login.class
+ru\kpfu\servlets\Profile.class
